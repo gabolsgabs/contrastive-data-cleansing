@@ -32,6 +32,9 @@ Cite this paper:
 You can contact us at:
 
   > gabriel dot meseguerbrocal at ircam dot fr
+
   > rachelbittner at spotify dot com
+
   > durand at spotify dot com
+
   > brianbrost at spotify dot com
